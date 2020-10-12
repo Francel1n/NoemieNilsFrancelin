@@ -1,4 +1,4 @@
-function setup() {
+function setup() { popopoopop
 createCanvas(660, 660);
 background(225);
 {
